@@ -33,4 +33,5 @@ Some of the to-do I'm working on..
   2. adding functionality to scrape website.
   3. Play Gaana.com music with a voice command.
   4. Randomly giving coding question 1 easy, 1 hard, 1 mid level to hone programming skill, daily.
-  5. ...
+  5. Making it as webapp, so that everyone can use it and enjoy this cool thing :)
+  6. ...
